@@ -1,0 +1,4 @@
+firstRepo
+=========
+
+testing .git only
